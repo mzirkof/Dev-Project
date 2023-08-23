@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Projet de Groupe</b></h3>
+  <h3><b>Projet de Groupe Numero I : [ **Project-Name-Here** ] </b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -30,11 +30,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse APP <a name="about-project"></a>
+# 📖 [ **Project-Name-Here** ] <a name="about-project"></a>
 
 <!-- > Describe your project in 1 or 2 sentences. -->
 
-**Hello Microverse App** is a Simple Webpage showing the Legendary 'Hello" Message on each first Programming display Test
+[ **Project-Name-Here** ] est une application web de Video a la demande (streamming Video)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,16 +43,29 @@
   <ul>
     <li> HTML </li>
     <li> CSS </li>
+    <li> js </li>
+    <li> jsx </li>
+    <li> Python </li>
+    <li> Django </li>
+    <li> React </li>
+    <li> Bootstrap </li>
+    <li> SQLite </li>
+    <li> PostgreSQL </li>
+    <li> MySQL </li>
+    
   </ul>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Features of the application are :
+> Les fonctionnalites de l'App sont :
 
-- **Display a Text : 'Hello Microverse' with Html**
-- **Uses CSS to style that text**
+- **Regarder les Video a la demande en Ligne**
+- **Systeme de notation des Videos et de comptage des vues**
+- **Filtres et Tri des videos**
+- **Gestion des Profils utilisateur**
+- **Partage et Abonnement entre differents Utilisateurs**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,11 +74,17 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+Afin d'avoir une copies locale fonctionnelle de l'Application il Faut
 
 ### Prerequisites
 
-In order to run this project you need a web browser 
+Installer les  differents elements suivants :
+<ul>
+  <li>Installer Python</li>
+  <li>installe Js Node</li>
+  <li>Installer Django</li>
+  <li>Installer un logiciel de gestion de version (git , git Bash ou autre)</li>
+</ul> 
 
 <!--
 Example command:
@@ -77,16 +96,25 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder .
+Cloner Ce depot git dans le dossier de votre choix : 
+```sh
+
+  git clone https://github.com/mzirkof/Dev-Project.git
+
+```
 
 
-### Install
+### Installation
 
-No Installation needed
+  A Preciser ulterieurement
 
 ### Usage
 
-To run the project, just open (double click on) the file named A.html
+Pour executer ou mettre en marche l'application web, 
+<ol>
+  <li>Le serveur django pour banckend doit etre en marche ; command : python manage.py runserver</li>
+  <li>Le Moteur de rendu pour frontEnd react doit etre en marche; command : npm start  </li>
+</ol>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -97,10 +125,10 @@ To run the project, just open (double click on) the file named A.html
 
 
 👤 **Célestin SOUOP (Mzirkof)**
-
-- GitHub: [@mzirkof](https://github.com/mzirkof)
-- Twitter: [@mzirkof](https://twitter.com/mzirkof)
-- LinkedIn: [Mzirkof](https://www.linkedin.com/in/celestin-souop-58341a109/)
+    - GitHub: [@mzirkof](https://github.com/mzirkof)
+    - Twitter: [@mzirkof](https://twitter.com/mzirkof)
+    - LinkedIn: [Mzirkof](https://www.linkedin.com/in/celestin-souop-58341a109/)
+    - Facebook; [SOSMzk](https://facebook.com/sosmzk)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

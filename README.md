@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Hello Microverse Project</b></h3>
+  <h3><b>Projet de Groupe</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -129,7 +129,7 @@ If you like this project just add a star on the repository ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse, My reviewers
+I would like to thank ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

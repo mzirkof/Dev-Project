@@ -125,10 +125,12 @@ Pour executer ou mettre en marche l'application web,
 
 
 👤 **Célestin SOUOP (Mzirkof)**
-    - GitHub: [@mzirkof](https://github.com/mzirkof)
-    - Twitter: [@mzirkof](https://twitter.com/mzirkof)
-    - LinkedIn: [Mzirkof](https://www.linkedin.com/in/celestin-souop-58341a109/)
-    - Facebook; [SOSMzk](https://facebook.com/sosmzk)
+  <ul>
+    <li> GitHub: [@mzirkof](https://github.com/mzirkof)</li>
+    <li> Twitter: [@mzirkof](https://twitter.com/mzirkof)</li>
+    <li> LinkedIn: [Mzirkof](https://www.linkedin.com/in/celestin-souop-58341a109/)</li>
+    <li> Facebook: [SOSMzk](https://facebook.com/sosmzk)</li>
+  </ul>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -123,15 +123,17 @@ Pour executer ou mettre en marche l'application web,
 
 ## 👥 Authors <a name="authors"></a>
 
-
-👤 **Célestin SOUOP (Mzirkof)**
-  <ul>
-    <li> GitHub: [@mzirkof](https://github.com/mzirkof)</li>
-    <li> Twitter: [@mzirkof](https://twitter.com/mzirkof)</li>
-    <li> LinkedIn: [Mzirkof](https://www.linkedin.com/in/celestin-souop-58341a109/)</li>
-    <li> Facebook: [SOSMzk](https://facebook.com/sosmzk)</li>
-  </ul>
-
+<ul>
+  <li>
+    👤 **Célestin SOUOP (Mzirkof)**
+      <ul>
+        <li> GitHub: [@mzirkof](https://github.com/mzirkof)</li>
+        <li> Twitter: [@mzirkof](https://twitter.com/mzirkof)</li>
+        <li> LinkedIn: [Mzirkof](https://www.linkedin.com/in/celestin-souop-58341a109/)</li>
+        <li> Facebook: [SOSMzk](https://facebook.com/sosmzk)</li>
+      </ul>
+    </li>
+</ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

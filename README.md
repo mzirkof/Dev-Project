@@ -34,7 +34,7 @@
 
 <!-- > Describe your project in 1 or 2 sentences. -->
 
-[ **Project-Name-Here** ] est une application web de Video a la demande (streamming Video)
+[ **Project-Name-Here** ] est une application web de Video a la demande (streaming Video)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -126,13 +126,12 @@ Pour executer ou mettre en marche l'application web,
 <ul>
   <li>
     👤 **Célestin SOUOP (Mzirkof)**
-  <ul>
-        <li> GitHub: [@mzirkof](https://github.com/mzirkof)</li>
-        <li> Twitter: [@mzirkof](https://twitter.com/mzirkof) </li>
-        <li> LinkedIn: [Mzirkof](https://www.linkedin.com/in/celestin-souop-58341a109/) </li>
-        <li> Facebook: [SOSMzk](https://facebook.com/sosmzk) </li>
-        <li> [MIT](./MIT.md) </li>
-  </ul>   
+  
+  GitHub: [@mzirkof](https://github.com/mzirkof)
+  Twitter: [@mzirkof](https://twitter.com/mzirkof)
+  LinkedIn: [Mzirkof](https://www.linkedin.com/in/celestin-souop-58341a109/)
+  Facebook: [SOSMzk](https://facebook.com/sosmzk)
+  
   </li>
 </ul>
 
